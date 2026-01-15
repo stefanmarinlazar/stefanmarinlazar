@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+## There is nothing important to say about me except that i work in the it industry as a programer in a unrelated field to what i develop here 
+## While in my daily job i need to fix some pretty fancy issues i do enjoy myself in making small scripts that make my home system more stable and more fun 
+## I just discovered the full capability of github some while ago and i am experimenting with it atm 
 <!--
 **stefanmarinlazar/stefanmarinlazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
